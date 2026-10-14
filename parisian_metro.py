@@ -1,6 +1,6 @@
 """
 parisian_metro.py, Tuesday, October 13th 2026
-Gives some functions to compute expected route time between two stations on a given line and transfer time between two given lines in a hub.
+We provide some functions to compute expected route time between two stations on a given line and transfer time between two given lines in a hub.
 """
 
 import pandas as pd
